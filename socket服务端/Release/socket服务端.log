@@ -1,0 +1,26 @@
+﻿  TestTask.cpp
+  Task.cpp
+  stdafx.cpp
+  socket服务端.cpp
+  SocketTCP.cpp
+  SocketAPP.cpp
+  SaveQueue.cpp
+  RecAPP.cpp
+  MyThreadPool.cpp
+  MyThread.cpp
+  MyStack.cpp
+  MyQueue.cpp
+  MyMutex.cpp
+  MyList.cpp
+  mSQLSave.cpp
+  md5.cpp
+  json_writer.cpp
+  json_value.cpp
+  json_reader.cpp
+  CSmtp.cpp
+  正在生成代码...
+  正在编译...
+  base64.cpp
+  正在生成代码...
+  socket服务端.vcxproj -> C:\Users\Administrator\Desktop\微信socket服务端\Release\socket服务端.exe
+  socket服务端.vcxproj -> C:\Users\Administrator\Desktop\微信socket服务端\Release\socket服务端.pdb (Full PDB)

@@ -1,0 +1,417 @@
+﻿  stdafx.cpp
+  TestTask.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(295): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(304): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(472): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(440): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(460): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(529): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(536): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(538): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(561): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(591): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(607): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(583): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(629): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(693): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(660): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(664): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(681): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(733): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(823): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(840): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(851): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(858): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(867): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(883): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(968): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(976): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(999): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1013): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1027): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1042): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1096): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1116): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1135): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1146): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(832): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“::size_t”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(832): note: 请考虑在格式字符串中使用“%zd”
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(832): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1166): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1167): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1365): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1376): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1205): warning C4101: “f2”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1205): warning C4101: “f1”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1520): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1531): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1568): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1581): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1646): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1652): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1663): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1678): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1712): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1658): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1691): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1819): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1851): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(1864): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2015): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2027): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2197): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2209): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2364): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2376): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2467): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2480): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2628): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2641): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2719): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2730): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2910): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(2923): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3120): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3131): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3794): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3802): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3808): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3812): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3815): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3821): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3849): warning C4474: sscanf: 格式字符串中传递的参数太多
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3849): note: 占位符和其参数预计 6 可变参数，但提供的却是 8 参数
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3842): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3864): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(3865): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4400): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4330): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4563): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4493): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4849): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4851): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4893): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4924): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(4933): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5109): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5087): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5088): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5040): warning C4101: “MsgContent”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5038): warning C4101: “pend”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5038): warning C4101: “t”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5240): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5218): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5219): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5171): warning C4101: “MsgContent”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5169): warning C4101: “pend”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5169): warning C4101: “t”: 未引用的局部变量
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5976): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(5973): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6084): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6058): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6059): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6150): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6146): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6147): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6296): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6332): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6496): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\testtask.cpp(6554): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+  Task.cpp
+  socket服务端.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(95): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SOCKET”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(95): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(95): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(95): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(101): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SOCKET”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(101): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(101): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(101): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(111): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(111): note: 请考虑在格式字符串中使用“%zd”
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(160): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SOCKET”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(160): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(160): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(160): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(165): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SOCKET”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(165): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(165): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(165): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(175): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(175): note: 请考虑在格式字符串中使用“%zd”
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(234): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(236): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(256): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(257): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(261): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(351): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(420): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(525): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(657): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(661): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(662): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(666): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  SocketTCP.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\sockettcp.cpp(233): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SocketAPP.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socketapp.cpp(231): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SaveQueue.cpp
+  RecAPP.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(122): warning C4244: “参数”: 从“__int64”转换到“unsigned long”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(2877): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(2885): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(2891): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(2895): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(2898): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(2904): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  MyThreadPool.cpp
+  MyThread.cpp
+  MyStack.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\mystack.cpp(36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MyQueue.cpp
+  MyMutex.cpp
+  MyList.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\mylist.cpp(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  mSQLSave.cpp
+  md5.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\md5.cpp(124): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\md5.cpp(278): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  json_writer.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\json\src\lib_json\json_writer.cpp(119): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  json_value.cpp
+  json_reader.cpp
+  CSmtp.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(150): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(151): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(194): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(602): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(665): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(693): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(574): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(669): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(670): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(671): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(672): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(673): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(674): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(675): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(676): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(681): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(694): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(695): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(696): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(845): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(919): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(926): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(936): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(974): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(999): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1015): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1040): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1044): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1051): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1054): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1118): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1120): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1122): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1129): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1131): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1138): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1151): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1153): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1155): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1157): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1196): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1181): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1184): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1186): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1188): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1190): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1192): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1194): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1289): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1330): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1331): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1333): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1334): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1335): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1340): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1341): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1342): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1348): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1349): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1350): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1356): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1357): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1358): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1359): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1366): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1369): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1372): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1375): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1379): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1380): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1381): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1386): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1387): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1388): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1393): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1394): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1395): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1400): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1403): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1404): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1406): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1409): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1412): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1413): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1414): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1415): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1416): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1417): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1421): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1422): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1423): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1424): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1426): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1427): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1428): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1429): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1430): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1431): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1432): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1433): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1434): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1479): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1527): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1545): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1602): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1617): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1632): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(1734): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(2113): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(2257): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(2284): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\csmtp.cpp(2386): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+  base64.cpp
+c:\users\administrator\desktop\微信socket服务端\socket服务端\base64.cpp(88): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\base64.cpp(98): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\base64.cpp(116): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
+  socket服务端.vcxproj -> C:\Users\Administrator\Desktop\微信socket服务端\x64\Debug\socket服务端.exe

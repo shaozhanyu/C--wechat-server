@@ -1,0 +1,4 @@
+实际消息体字节数要和Content-Length 定义的严格一致。
+
+//注意http响应末尾是消息体，就是\r\n也算2个字节的消息体，不要多发字节
+//strcat_s(send_str, "\r\n");//注意，因为多加了两个字节，导致超过content-Length，微信6秒才回复
