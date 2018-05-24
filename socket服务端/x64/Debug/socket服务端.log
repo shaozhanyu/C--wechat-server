@@ -194,9 +194,9 @@ c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服�
 c:\users\administrator\desktop\微信socket服务端\socket服务端\socket服务端.cpp(666): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
   SocketTCP.cpp
-c:\users\administrator\desktop\微信socket服务端\socket服务端\sockettcp.cpp(233): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\sockettcp.cpp(277): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   SocketAPP.cpp
-c:\users\administrator\desktop\微信socket服务端\socket服务端\socketapp.cpp(231): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\微信socket服务端\socket服务端\socketapp.cpp(271): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   SaveQueue.cpp
   RecAPP.cpp
 c:\users\administrator\desktop\微信socket服务端\socket服务端\recapp.cpp(122): warning C4244: “参数”: 从“__int64”转换到“unsigned long”，可能丢失数据

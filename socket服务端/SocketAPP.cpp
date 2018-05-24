@@ -98,7 +98,7 @@ int  CSocketAPP::Create(char* cIP,int iPort,bool bRebind)
 	}
 	else
 	{
-		printf("创建socket套接字\r\n");
+		printf("APP服务端创建socket套接字\r\n");
 	}
 	// 创建IOCP的内核对象
 	/****
@@ -144,7 +144,7 @@ int  CSocketAPP::Create(char* cIP,int iPort,bool bRebind)
 	}
 	else
 	{
-		printf("绑定套接字成功！\r\n");
+		printf("APP服务端绑定套接字成功！\r\n");
 	}
 
 	//某些具体程序要求待未发送完的数据发送出去后再关闭socket，可通过设置让程序满足要求：
@@ -157,12 +157,52 @@ int  CSocketAPP::Create(char* cIP,int iPort,bool bRebind)
 	//在调用closesocket()时还有数据未发送完，允许等待
 	// 若m_sLinger.l_onoff=0;则调用closesocket()后强制关闭
 	m_sLinger.l_linger = 2; //设置等待时间为2秒
-	setsockopt(m_sockfd, SOL_SOCKET, SO_LINGER, ( const char* )&m_sLinger, sizeof( linger ) );
+    setsockopt(m_sockfd, SOL_SOCKET, SO_LINGER, ( const char* )&m_sLinger, sizeof( linger ) );
 
+#define   SIO_RCVALL                         _WSAIOW(IOC_VENDOR,1)  
+#define   SIO_RCVALL_MCAST             _WSAIOW(IOC_VENDOR,2)  
+#define   SIO_RCVALL_IGMPMCAST     _WSAIOW(IOC_VENDOR,3)  
+#define   SIO_KEEPALIVE_VALS         _WSAIOW(IOC_VENDOR,4)  
+#define   SIO_ABSORB_RTRALERT       _WSAIOW(IOC_VENDOR,5)  
+#define   SIO_UCAST_IF                     _WSAIOW(IOC_VENDOR,6)  
+#define   SIO_LIMIT_BROADCASTS     _WSAIOW(IOC_VENDOR,7)  
+#define   SIO_INDEX_BIND                 _WSAIOW(IOC_VENDOR,8)  
+#define   SIO_INDEX_MCASTIF           _WSAIOW(IOC_VENDOR,9)    
+#define   SIO_INDEX_ADD_MCAST       _WSAIOW(IOC_VENDOR,10)  
+#define   SIO_INDEX_DEL_MCAST       _WSAIOW(IOC_VENDOR,11)  
+	struct tcp_keepalive {
+		u_long     onoff;
+		u_long     keepalivetime; //第一次开始发送的时间（单位毫秒）
+		u_long     keepaliveinterval;//每次检测的间隔 （单位毫秒）
+	};
+
+	// 开启KeepAlive
+	BOOL bKeepAlive = TRUE;
+	int nRet = setsockopt(m_sockfd, SOL_SOCKET, SO_KEEPALIVE, (char*)&bKeepAlive, sizeof(bKeepAlive));
+	if (nRet == SOCKET_ERROR)
+	{
+		printf("open-keepalive-error\r\n");
+		return -11;
+	}
+
+	// 设置KeepAlive参数
+	tcp_keepalive alive_in = { 0 };
+	tcp_keepalive alive_out = { 0 };
+	alive_in.keepalivetime = 20000;       // 开始首次KeepAlive探测前的TCP空闭时间
+	alive_in.keepaliveinterval = 1000;  // 两次KeepAlive探测间的时间间隔
+	alive_in.onoff = TRUE;
+	unsigned long ulBytesReturn = 0;
+	nRet = WSAIoctl(m_sockfd, SIO_KEEPALIVE_VALS, &alive_in, sizeof(alive_in),
+		&alive_out, sizeof(alive_out), &ulBytesReturn, NULL, NULL);
+	if (nRet == SOCKET_ERROR)
+	{
+		printf("set-keepalive-error\r\n");
+		return -12;
+	}
 	//在send(),recv()过程中有时由于网络状况等原因，发收不能预期进行,而设置收发时限：
-	int nNetTimeout=1000;//1秒
+	//int nNetTimeout=1000;//1秒
 	//发送时限
-	setsockopt(m_sockfd , SOL_SOCKET , SO_SNDTIMEO ,(char *)&nNetTimeout,sizeof(int));
+	//setsockopt(m_sockfd , SOL_SOCKET , SO_SNDTIMEO ,(char *)&nNetTimeout,sizeof(int));
 	//接收时限
 	//setsockopt(m_sockfd , SOL_SOCKET , SO_RCVTIMEO ,(char *)&nNetTimeout,sizeof(int));
 
@@ -189,7 +229,7 @@ int  CSocketAPP::Listen(int lNum )
 	}
 	else
 	{
-		printf("启动监听成功!\r\n");
+		printf("APP服务端启动监听成功!\r\n");
 	}
 
 // 创建IOCP线程--线程里面创建线程池
@@ -197,7 +237,7 @@ int  CSocketAPP::Listen(int lNum )
 	// 确定处理器的核心数量比如4核心8核心
 	SYSTEM_INFO   systeminfo;
 	GetSystemInfo(&systeminfo);
-	int workThredNum = systeminfo.dwNumberOfProcessors * 2;
+	int workThredNum = systeminfo.dwNumberOfProcessors*2;
 	if (0 > workThredNum)
 	{
 		return -4;
@@ -219,7 +259,7 @@ int  CSocketAPP::Listen(int lNum )
 
 	}
 	// 开始处理IO数据
-	printf( "socket服务器已就绪，正在等待客户端接入....\r\n");
+	printf( "APP软件socket服务器已就绪，正在等待客户端接入....\r\n");
 	
 	return 0;
 
@@ -306,7 +346,21 @@ int CSocketAPP::IOCP_Recv()
 		{
 			//CloseHandle(m_CompletionPort);
 			//完成端口关闭
-			break;
+			//break;
+			//client close tcp
+			if (0 == m_setIOCPKEY.size())
+			{
+				break;
+			}
+			{
+				CLockMutex::Lock lock(m_mutex);//创建结构体类lock，初始化锁变量给构造函数，出函数，自动解析释放解锁
+				m_setIOCPKEY.erase(pIOCPContext);//删除当前连接
+			}
+			shutdown(pIOCPContext->clientSocket, SD_BOTH);
+			closesocket(pIOCPContext->clientSocket);
+			delete pIOCPContext;//释放类指针
+			pIOCPContext = NULL;
+			continue;
 		}
 		if (TRUE == nRetCode && 0 == dwBytesTransfered  && NULL != pVoidContextKey)
 		{
